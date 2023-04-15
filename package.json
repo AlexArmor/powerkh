@@ -1,8 +1,8 @@
 {
-  "name": "parcel-project-template",
+  "name": "powerkh",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://yuriy0790.github.io/powerkh",
+  "homepage": "https://AlexArmor.github.io/powerkh",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://yuriy0790.github.io/powerkh.git"
+    "url": "git+https://AlexArmor.github.io/powerkh.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
